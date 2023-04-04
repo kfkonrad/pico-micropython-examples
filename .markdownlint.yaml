@@ -1,0 +1,5 @@
+no-inline-html:
+  allowed_elements:
+  - kbd
+line-length:
+  line_length: 120
